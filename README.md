@@ -57,22 +57,65 @@ When I’m not coding, I’m usually watching anime or gaming.
 
 ---
 
-### 🧰 Languages and Tools
+<!-- PROJECTS START -->
+### 🚀 Projects</h3>
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/swesan123/gdp-abalone-regression-ml">🐚 GDP & Abalone Regression (ML)</a></h3>
+      <p>
+        Regression analysis on Abalone age and GDP with an interactive <b>Streamlit</b> dashboard.
+      </p>
+      <p align="left">
+        <img alt="Python" title="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+        <img alt="NumPy" title="NumPy" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+        <img alt="Pandas" title="Pandas" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+        <img alt="Matplotlib" title="Matplotlib" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
+        <img alt="Streamlit" title="Streamlit" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg">
+        <img alt="Conda" title="Conda" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+        <img alt="GitHub Copilot" title="GitHub Copilot" width="30" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/GitHub_Copilot_logo.svg">
+      </p>
+      <p>
+        <a href="https://github.com/swesan123/gdp-abalone-regression-ml">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/swesan123/gdp-abalone-regression-ml?style=social" alt="Stars">
+        <img src="https://img.shields.io/github/forks/swesan123/gdp-abalone-regression-ml?style=social" alt="Forks">
+      </p>
+    </td>
 
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/hitchly/hitchly">🚗 Hitchly</a></h3>
+  <p>
+    Ridesharing for verified students. TypeScript monorepo with <b>Express</b>, <b>tRPC</b>, <b>Drizzle ORM</b>, and Dockerized <b>PostgreSQL</b>.
+  </p>
+
+  <p align="left">
+    <img alt="TypeScript" title="TypeScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img alt="Express.js" title="Express.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+    <img alt="Node.js" title="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img alt="Docker" title="Docker" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <img alt="PostgreSQL" title="PostgreSQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img alt="Drizzle ORM" title="Drizzle ORM" width="30" src="https://avatars.githubusercontent.com/u/114735949?s=200&v=4">
+    <img alt="TurboRepo" title="TurboRepo" width="30" src="https://avatars.githubusercontent.com/u/96525240?s=200&v=4">
+  </p>
+
+  <p>
+    <a href="https://github.com/hitchly/hitchly">
+      <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/github/stars/hitchly/hitchly?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/hitchly/hitchly?style=social" alt="Forks">
+  </p>
+</td>
+
+  </tr>
+</table>
 
 ---
 
