@@ -1,4 +1,4 @@
-# ⚡ Swesan Pathmanathan ⚡
+# ⚡ Swesan Pathmanathan
 
 **`AI Enthusiast | Weeb | Gamer`**
 
