@@ -77,7 +77,7 @@ When I’m not coding, I’m usually watching anime or gaming.
 
 ### 📊 Stats
 
-![Swesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=swesan123&show_icons=true&theme=gruvbox)
+![Swesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=swesan123&show_icons=true&theme=gotham)
 
 ---
 
